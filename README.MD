@@ -66,5 +66,5 @@ This Java program simulates the classic Battleship board game in a simplified, c
 
 1. **Clone or download** this repository:
    ```bash
-   git clone https://github.com/anupsharma04/battleship-java.git
+   git clone https://github.com/anupsharma04/BattleShip-Game.git
    cd battleship-java
